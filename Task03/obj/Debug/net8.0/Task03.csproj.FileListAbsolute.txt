@@ -1,0 +1,14 @@
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\bin\Debug\net8.0\Task03.exe
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\bin\Debug\net8.0\Task03.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\bin\Debug\net8.0\Task03.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\bin\Debug\net8.0\Task03.dll
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\bin\Debug\net8.0\Task03.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.dll
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\refint\Task03.dll
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\Task03.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\IT разработчик\Знакомство с языками программирования\C#\Sem_7\Homme_Work\Task03\obj\Debug\net8.0\ref\Task03.dll
